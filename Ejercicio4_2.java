@@ -1,5 +1,14 @@
 package practicas;
 
+/*
+ *Ejercicio 4.2: Dado los siguientes valores de entrada “A” y “b”, determinar si una letra es
+mayúscula o no.
+
+Imprimir "Es una letra mayuscula" en el caso de ser mayúscula.
+
+Imprimir "No es una letra mayuscula" en el caso de ser minúscula. 
+ */
+
 public class Ejercicio4_2 {
 
 	public static void main(String[] args) {
