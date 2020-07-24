@@ -1,5 +1,8 @@
 package practicas;
 
+import java.util.ArrayList;
+
+
 public class Electrodomestico {
 
 	protected String marca;
@@ -37,6 +40,8 @@ public class Electrodomestico {
 	public void apagar() {
 		System.out.println("Apagando electrodoméstico");
 	}
+	
+	
 	
 	
 }
