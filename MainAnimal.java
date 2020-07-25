@@ -7,6 +7,9 @@ public class MainAnimal {
 		Perro dog = new Perro();
 		dog.dormir();
 		dog.sonidoAnimal();
+		dog.come("perro");
+		Animal.camina("perro");
+		
 	}
 
 }
